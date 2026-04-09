@@ -1,3 +1,5 @@
 Challenge 3
 
-Kelsey's clone of Reese's repo
+Kelsey's clone of Reese's repo.
+
+copycat (^..^)⟆
